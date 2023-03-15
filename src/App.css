@@ -1,0 +1,11 @@
+.control {
+display: flex;
+}
+
+.table {
+  margin: 10px 0;
+}
+
+.header {
+  margin-left: 5px;
+}

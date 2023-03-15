@@ -1,0 +1,17 @@
+.item {
+    width: 345px;
+    height: 30px;
+    margin: 5px;
+    border: 3px solid goldenrod;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item_text {
+    color: red;
+}
+
+.item_btn {
+    background-color: red;
+}
